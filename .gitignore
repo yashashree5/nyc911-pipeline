@@ -1,0 +1,4 @@
+*.csv
+*.parquet
+spark-warehouse/
+.ipynb_checkpoints/
